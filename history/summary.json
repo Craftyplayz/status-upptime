@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 142,
-    "timeDay": 58,
+    "timeDay": 104,
     "timeWeek": 77,
     "timeMonth": 83,
     "timeYear": 150,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 203,
-    "timeWeek": 200,
-    "timeMonth": 188,
-    "timeYear": 196,
+    "timeDay": 231,
+    "timeWeek": 181,
+    "timeMonth": 187,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2025-12-03": 16
     }
@@ -56,13 +56,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 465,
-    "timeWeek": 308,
-    "timeMonth": 294,
+    "timeDay": 363,
+    "timeWeek": 332,
+    "timeMonth": 298,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
